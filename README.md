@@ -8,6 +8,39 @@ My work focuses on developing and applying numerical methods to complex engineer
 
 Current interests include high-order methods for hyperbolic conservation laws, shock-capturing schemes, numerical linear algebra, and high-performance scientific computing.
 
+
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/profile/Test6_Density.png" width="100%">
+      <br>
+      <em>Density</em>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/profile/Test6_Pressure.png" width="100%">
+      <br>
+      <em>Pressure</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/profile/Test6_Velocity.png" width="100%">
+      <br>
+      <em>Velocity</em>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/profile/Test6_Internal_Energy.png" width="100%">
+      <br>
+      <em>Internal Energy</em>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Comparison of Roe, Roe-MUSCL, Roe-WENO3, and Roe-WENO5 solutions for Sod's Shock Tube Problem, a classical benchmark used for HighOrderEuler-MATLAB.</em>
+</p>
+
 ## Research & Technical Interests
 
 - Computational Fluid Dynamics
@@ -20,6 +53,8 @@ Current interests include high-order methods for hyperbolic conservation laws, s
 - Numerical Linear Algebra
 - High-Performance Computing
 - Scientific Software Engineering
+
+<p align="center"> <img src="assets/profile/comparison.png" width="700"> </p> <p align="center"> <em>Results of a steady and transient conduction problem used to validate heat-transfer-toolkit against OpenFOAM.</em> </p>
 
 ## Selected Computational Work
 
@@ -88,7 +123,7 @@ The implementations model nonlinear wave propagation including shock waves, cont
 </table>
 
 <p align="center">
-  <em>Comparison of Roe, Roe-MUSCL, Roe-WENO3, and Roe-WENO5 solutions for a compressible-flow benchmark problem.</em>
+  <em>Comparison of Roe and Roe-MUSCL solutions for a compressible-flow benchmark problem.</em>
 </p>
 
 #### Numerical Methods
