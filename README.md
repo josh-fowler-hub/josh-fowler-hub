@@ -88,7 +88,7 @@ The implementations model nonlinear wave propagation including shock waves, cont
 </table>
 
 <p align="center">
-  <em>Comparison of Roe and Roe-MUSCL solutions for a compressible-flow benchmark problem.</em>
+  <em>Comparison of Roe, Roe-MUSCL, Roe-WENO3, and Roe-WENO5 solutions for a compressible-flow benchmark problem.</em>
 </p>
 
 #### Numerical Methods
