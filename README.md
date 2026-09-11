@@ -43,7 +43,7 @@ $$
 +
 \frac{\partial \mathbf{F}(\mathbf{U})}{\partial x}
 =
-0,
+0
 $$
 
 where
@@ -55,7 +55,7 @@ $$
 \rho \\
 \rho u \\
 E
-\end{bmatrix}.
+\end{bmatrix}
 $$
 
 The implementations model nonlinear wave propagation including shock waves, contact discontinuities, and expansion waves.
