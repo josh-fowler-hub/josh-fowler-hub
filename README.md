@@ -123,11 +123,7 @@ The implementations model nonlinear wave propagation including shock waves, cont
 </table>
 
 <p align="center">
-<<<<<<< HEAD
-  <em>Comparison of Roe, Roe-MUSCL, Roe-WENO3, and Roe-WENO5 solutions for a compressible-flow benchmark problem.</em>
-=======
   <em>Comparison of Roe, Roe-MUSCL, Roe-WENO3, and Roe-WENO5 solutions for a compressible-flow blast wave problem as part of a benchmark for HighOrderEuler-MATLAB.</em>
->>>>>>> a453c25 (Added more figures)
 </p>
 
 #### Numerical Methods
