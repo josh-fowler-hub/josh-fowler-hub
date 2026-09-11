@@ -38,17 +38,17 @@ The research examined the accuracy and stability effects of introducing central 
 
 The one-dimensional Euler equations are written in conservation form as
 
-$$
+```math
 \frac{\partial \mathbf{U}}{\partial t}
 +
 \frac{\partial \mathbf{F}(\mathbf{U})}{\partial x}
 =
 0
-$$
+```
 
 where
 
-$$
+```math
 \mathbf{U}
 =
 \begin{bmatrix}
@@ -56,7 +56,7 @@ $$
 \rho u \\
 E
 \end{bmatrix}
-$$
+```
 
 The implementations model nonlinear wave propagation including shock waves, contact discontinuities, and expansion waves.
 
